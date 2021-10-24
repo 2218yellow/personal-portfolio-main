@@ -4,7 +4,7 @@ This project was built with React.js, and deployed with Netlify.
 
 Used Formspree for contact form management, and AOS for scroll animations.
 
-
+Open [www.goncanegis.com](http://www.goncanegis.com) to view it in the browser.
 
 
 ### `npm start`
