@@ -7,6 +7,7 @@ Used Formspree for contact form management, and AOS for scroll animations.
 Open [www.goncanegis.com](http://www.goncanegis.com) to view it in the browser.
 
 
+
 ### `npm start`
 
 Runs the app in the development mode.\
