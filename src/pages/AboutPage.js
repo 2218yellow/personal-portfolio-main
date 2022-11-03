@@ -15,18 +15,21 @@ const AboutPage = () => {
         <div className='section-content'>
           <img src={about} alt='' />
           <p className='section-text'>
-            I love building web apps and websites as much as I love my cats and
-            The IT Crowd, which is a LOT.
+            I am a well organized and determined graduate from the Durban University of Technology
+            <br/> seeking a position as an entry level Software Engineer.
+            
             <br />
-            I am a self-taught front-end developer with an eye for design, and a
-            background of content writing.
             <br />
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae
-            lacinia dolor. Vestibulum ut elit eget sem egestas vehicula.
-            Curabitur a feugiat mauris. Ut imperdiet facilisis libero ac
-            faucibus.
+            I am passionate about building because I enjoy the process of piecing things
+            together <br/> in order to produce a master piece that is at my level at that point , so this field is perfect
             <br />
-            Here are a few technologies I've been working with:
+            for me since I am also very eager to grow and 
+            I want to build that is going to have<br />
+             an impact in people's lives.
+            <br />
+            <br />
+
+            Here are a few languages and technologies I've been exposed to thus far:
           </p>
 
           <div className='technologies'>
@@ -41,6 +44,26 @@ const AboutPage = () => {
             <div className='single-technology'>
               <img src={caretright} alt='' />
               <p>JavaScript</p>
+            </div>
+            <div className='single-technology'>
+              <img src={caretright} alt='' />
+              <p>Python</p>
+            </div>
+            <div className='single-technology'>
+              <img src={caretright} alt='' />
+              <p>C#</p>
+            </div>
+            <div className='single-technology'>
+              <img src={caretright} alt='' />
+              <p>Azure</p>
+            </div>
+            <div className='single-technology'>
+              <img src={caretright} alt='' />
+              <p>Azure Blob Storage</p>
+            </div>
+            <div className='single-technology'>
+              <img src={caretright} alt='' />
+              <p>Entity Framework</p>
             </div>
             <div className='single-technology'>
               <img src={caretright} alt='' />

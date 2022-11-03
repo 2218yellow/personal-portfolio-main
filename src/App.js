@@ -3,7 +3,7 @@ import { useEffect } from 'react';
 import './App.css';
 import Navbar from './components/Navbar';
 import AboutPage from './pages/AboutPage';
-import BlogPage from './pages/BlogPage';
+
 import ContactPage from './pages/ContactPage';
 import FeaturedProjects from './pages/FeaturedProjects';
 import HomePage from './pages/HomePage';
@@ -20,12 +20,9 @@ function App() {
     <>
       <Navbar />
       <HomePage />
-
       <AboutPage />
 
       <FeaturedProjects />
-
-      <BlogPage />
 
       <ContactPage />
     </>

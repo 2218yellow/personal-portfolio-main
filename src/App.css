@@ -287,33 +287,6 @@ section {
   color: #98ffd7;
 }
 
-.contact-form {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  width: 85vw;
-}
-
-.contact-form input {
-  margin-bottom: 1rem;
-}
-
-.submit-btn {
-  margin-top: 1rem;
-  background-color: #333;
-  color: #98ffd7;
-  padding: 0.5rem 1rem;
-  border: 1px solid #98ffd7;
-  border-radius: 2px;
-  outline: none;
-}
-
-.submit-btn:hover {
-  background-color: #caffd7;
-  color: #333;
-  border: none;
-}
-
 /* *********************** */
 
 /* Icon Colors */
@@ -500,26 +473,5 @@ section {
 
   .social-icons img {
     width: 35px;
-  }
-
-  #contactForm {
-    display: flex;
-    justify-content: right;
-  }
-
-  .contact-form input,
-  .contact-form textarea {
-    padding: 0.5rem;
-    width: 50%;
-    margin: 0.5rem auto 1rem auto;
-  }
-
-  /* .contact-form label {
-    margin-bottom: 0.35rem;
-  } */
-
-  .submit-btn {
-    width: 50%;
-    margin: 1rem auto;
   }
 }

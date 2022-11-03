@@ -16,25 +16,20 @@ const FeaturedProjects = () => {
           data-aos='flip-left'
           data-aos-duration='800'
         >
-          <h3>React Full-stack Blog</h3>
+          <h3>Izinto Cleaning</h3>
           <p className='section-text'>
-            A web app that Lorem ipsum dolor sit amet, consectetur adipiscing
-            elit. Sed vitae lacinia dolor. Vestibulum ut elit eget sem egestas
-            vehicula. Curabitur a feugiat mauris. Ut imperdiet facilisis libero
-            ac faucibus.
+            A web app that allows users to request services online.<br/>
+            Implemented payment sandbox using Payfast.<br/>
+            Implemented UI template using CSHTML and CSS.
           </p>
           <div className='technologies'>
-            <p>React</p>
-            <p>Styled Components</p>
-            <p>Express</p>
-            <p>MongoDB</p>
+            <p>C#</p>
+            <p>JavaScript</p>
+            <p>Entity Framework</p>
           </div>
           <div className='project-social'>
-            <a href='https://github.com/goncanegis'>
+            <a href='https://github.com/2218yellow/CleaningApp'>
               <img src={github} alt='' />
-            </a>
-            <a href='http://goncuk.com/'>
-              <img src={link} alt='' />
             </a>
           </div>
         </div>
@@ -46,25 +41,20 @@ const FeaturedProjects = () => {
           data-aos='flip-left'
           data-aos-duration='1000'
         >
-          <h3>React Weather App</h3>
+          <h3>Online Clothing Store</h3>
           <p className='section-text'>
-            A web app that Lorem ipsum dolor sit amet, consectetur adipiscing
-            elit. Sed vitae lacinia dolor. Vestibulum ut elit eget sem egestas
-            vehicula. Curabitur a feugiat mauris. Ut imperdiet facilisis libero
-            ac faucibus.
+            A web app that allows users to purchase and pay for goods online.<br/>
+            Users could track orders and confirming delivery with QR code.<br/>
+            Implemented payment sandbox using Payfast.
           </p>
           <div className='technologies'>
-            <p>React</p>
-            <p>CSS3</p>
-            <p>RapidApi</p>
-            <p>Open Weather Map</p>
+            <p>C#</p>
+            <p>JavaScript</p>
+            <p>Entity Framework</p>
           </div>
           <div className='project-social'>
-            <a href='https://github.com/goncanegis'>
+            <a href='https://github.com/2218yellow/Online-Web-App'>
               <img src={github} alt='' />
-            </a>
-            <a href='https://github.com/goncanegis'>
-              <img src={link} alt='' />
             </a>
           </div>
         </div>
@@ -76,24 +66,20 @@ const FeaturedProjects = () => {
           data-aos='flip-left'
           data-aos-duration='1200'
         >
-          <h3>Google Clone</h3>
+          <h3>Commu-Balance</h3>
           <p className='section-text'>
-            A web app that Lorem ipsum dolor sit amet, consectetur adipiscing
-            elit. Sed vitae lacinia dolor. Vestibulum ut elit eget sem egestas
-            vehicula. Curabitur a feugiat mauris. Ut imperdiet facilisis libero
-            ac faucibus.
+            A web app that allows users to be donors or recipients.<br/>
+            Implemented payment sandbox using Payfast for donors to donate funds.<br/>
+            Allow donors to download receipts for donations made.<br/>
           </p>
           <div className='technologies'>
-            <p>HTML5</p>
-            <p>CSS3</p>
+            <p>C#</p>
             <p>JavaScript</p>
+            <p>Entity Framework</p>
           </div>
           <div className='project-social'>
-            <a href='https://github.com/goncanegis'>
+            <a href='https://github.com/2218yellow/CommuBalance'>
               <img src={github} alt='' />
-            </a>
-            <a href='https://github.com/goncanegis'>
-              <img src={link} alt='' />
             </a>
           </div>
         </div>

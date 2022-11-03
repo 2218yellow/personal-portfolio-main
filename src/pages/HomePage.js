@@ -7,11 +7,10 @@ const HomePage = () => {
           data-aos='zoom-in'
           data-aos-duration='1500'
         >
-          Hi, I'm Gonca
+          Hi, I'm Ndumiso
         </h2>
         <h3 className='mainText' data-aos='zoom-in' data-aos-duration='2000'>
-          I came here to drink milk and build apps, <br /> and I've just
-          finished my milk.
+            I am an aspiring Software Engineer.
         </h3>
       </div>
     </section>

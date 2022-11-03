@@ -1,4 +1,4 @@
-import ContactForm from '../components/ContactForm';
+
 import github from '../img/github-brands.svg';
 import linkedin from '../img/linkedin-brands.svg';
 
@@ -16,18 +16,17 @@ const ContactPage = () => {
         <div className='section-content'>
           <p>I am looking for job opportunities, and would love to connect!</p>
           <p>
-            Drop me an email and I will get back to you, or find me on social
-            media:
+            Find me on social media:
           </p>
           <div className='social-icons'>
-            <a href='https://github.com/goncanegis/'>
+            <a href='https://github.com/2218yellow'>
               <img src={github} alt='my github profile' />
             </a>
-            <a href='https://www.linkedin.com/in/gonca-negis-35784423'>
+            <a href='https://www.linkedin.com/in/ndumiso-buthelezi-a73681214/'>
               <img src={linkedin} alt='my linkedin profile' />
             </a>
           </div>
-          <ContactForm />
+          
         </div>
       </div>
     </section>
